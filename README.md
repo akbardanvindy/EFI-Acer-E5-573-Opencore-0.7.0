@@ -47,26 +47,6 @@
     <td>:</td>
     <td>Catalina 10.15.5</td>
   </tr>
-  <tr>
-    <td>RAM </td>
-    <td>:</td>
-    <td>8 GB</td>
-  </tr>
-  <tr>
-    <td>Wifi</td>
-    <td>:</td>
-    <td>Atheros AR9565 802.11b/g/n</td>
-  </tr>
-  <tr>
-    <td>Eternet </td>
-    <td>:</td>
-    <td>Realtek RTL8168/8111</td>
-  </tr>
-  <tr>
-    <td>Audio </td>
-    <td>:</td>
-    <td>Realtek ALC255</td>
-  </tr>
 </table>
 
 

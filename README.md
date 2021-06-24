@@ -51,7 +51,7 @@
 
 <h3>ACPI</h3>
 <ul>
-  <li>SSDT-HPET (SSDTTime fix IRQ Confliq Option O) </li>
+  <li>SSDT-HPET (SSDTTime fix IRQ Conflict Option O) </li>
   <li>SSDT-EC (SSDTTime for laptop) </li>
   <li>SSDT-PLUG (SSDTTime) </li>
   <li>SSDT-PNLF</li>

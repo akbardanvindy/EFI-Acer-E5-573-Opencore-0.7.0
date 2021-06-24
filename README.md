@@ -35,10 +35,10 @@
 </table>
 
 <h1>config.plist info</h1>
-
+<h3>Platform info</h3>
 <table>
   <tr>
-    <td>Platform</td>
+    <td>Bootloader</td>
     <td>:</td>
     <td>Opencore 0.7.0</td>
   </tr>
@@ -48,5 +48,36 @@
     <td>Catalina 10.15.5</td>
   </tr>
 </table>
+
+<h3>ACPI</h3>
+<ul>
+  <li>SSDT-HPET (SSDTTime fix IRQ Confliq Option O) </li>
+  <li>SSDT-EC (SSDTTime for laptop) </li>
+  <li>SSDT-PLUG (SSDTTime) </li>
+  <li>SSDT-PNLF</li>
+  <li>SSDT-XOSI</li>
+</ul>
+
+<h3>Kext</h3>
+<ul>
+  <li>AirPortAtheros40.kext</li>
+  <li>AppleALC.kext</li>
+  <li>ATH9KInjector.kext</li>
+  <li>Lilu.kext</li>
+  <li>RealtekRTL8111.kext</li>
+  <li>SMCBatteryManager.kext</li>
+  <li>SMCSuperIO.kext</li>
+  <li>USBInjectAll.kext</li>
+  <li>VirtualSMC.kext</li>
+  <li>VoodooI2C.kext</li>
+  <li>WhateverGreen.kext</li>
+</ul>
+
+<h3>Driver</h3>
+<ul>
+  <li>HfsPlus.efi</li>
+  <li>OpenCanopy.efi</li>
+  <li>OpenRuntime.efi</li>
+</ul>
 
 
